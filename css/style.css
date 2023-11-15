@@ -1,0 +1,52 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+text{
+    color: black;
+}
+h1 {
+    font-size: 15rem;
+    font-weight:bolder;
+    padding-left: 3vw;
+}
+
+h2 {
+    font-size: 7rem;
+    padding-left: 3vw;
+}
+
+h3 {
+    font-size: 5rem;
+    color: white;
+}
+
+p {
+    font-size: 2rem;
+    margin-top: 1vh;
+    color: white;
+
+}
+
+.button {
+    margin-top: 3vh;
+    border-radius: 16px;
+    font-size: 1.5rem;
+}
+
+.columnContent {
+    background-color: rgb(55, 72, 55);
+    border-radius: 24px;
+}
+
+img {
+    border-radius: 16px;
+}
+
+.columnContent {
+    min-height: 80vh;
+}
+
+footer {
+    padding: 4vh;
+    background-color: black;
+    color: white;
+}
